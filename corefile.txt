@@ -1,1 +1,4 @@
 this is the core file for the project
+ coding for the core features
+
+ add feature 1
